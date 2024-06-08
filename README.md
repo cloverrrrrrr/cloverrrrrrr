@@ -9,7 +9,7 @@ I'm a third-year university student who loves cybersecurity and networking
 * 🌍  I'm based in Jakarta
 * 🖥️  See my portfolio at [MyPortofolio](http://www.canva.com/design/DAGGzbi1QLw/vGJ4UM19edtJWSkqfReWPA/edit?utm_content=DAGGzbi1QLw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * ✉️  You can contact me at [firhansanad@gmail.com](mailto:firhansanad@gmail.com)
-* 🧠  I'm learning Cisco
+* 🧠  I'm learning Cybersecurity 
 
 ### Skills
 
