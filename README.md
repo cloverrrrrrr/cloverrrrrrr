@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity And Networking
 ----------------------------
 
-I'm a third-year university student who loves cybersecurity and networking
+Cybersecurity professional with hands-on experience in information security, security hardening, vulnerability assessment, penetration testing, and security governance. Experienced in web application security testing, infrastructure security, Linux administration, and ISO 27001:2022. Demonstrated interest in both offensive and defensive security, with additional hands-on experience in cloud computing and AWS.
 
 * 🌍  I'm based in Jakarta
-* 🖥️  See my portfolio at [MyPortofolio](http://www.canva.com/design/DAGGzbi1QLw/vGJ4UM19edtJWSkqfReWPA/edit?utm_content=DAGGzbi1QLw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 🖥️  See my portfolio at [MyPortofolio](https://cloverrrrrrr.github.io)
 * ✉️  You can contact me at [firhansanad@gmail.com](mailto:firhansanad@gmail.com)
 * 🧠  I'm learning Cybersecurity 
 
@@ -21,12 +21,4 @@ I'm a third-year university student who loves cybersecurity and networking
 
 <p align="left"> <a href="https://www.github.com/cloverrrrrrr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/firhan-firhan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/cloverrrrrrr/Snort-home-lab" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cloverrrrrrr&repo=Snort-home-lab&title_color=ffffff&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/cloverrrrrrr/dasprogg" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cloverrrrrrr&repo=dasprogg&title_color=ffffff&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/cloverrrrrrr/Python-Security-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cloverrrrrrr&repo=Python-Security-project&title_color=ffffff&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div>
